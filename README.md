@@ -1,6 +1,6 @@
 ### About Me 💡
 
-- 🛠️ Go | Python | Rust | Haskell
+- 🛠️ Go | Python | Neovim
 - 🖥️ Arch Linux | CentOS | OpenWrt | Github Action | Weapp | Docker
 - 🎮 Steam | Dota 2 | Don't Starve Together | Assassin's Creed
 - 🦾 Communist | Marxist | Developer
