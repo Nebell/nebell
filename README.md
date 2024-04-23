@@ -7,7 +7,5 @@
 
 ### Find Me 📫
 
-+ Email: a1322049727 of gmail.com
-+ Telegram: [@Neeeeshee](https://t.me/Neeeeshee)
-+ Github: Right Here 😋
++ Email: nebell0981 of outlook.com
 + Gitee: [@Nebell](https://gitee.com/nebell)
